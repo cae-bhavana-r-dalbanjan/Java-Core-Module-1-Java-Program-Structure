@@ -1,0 +1,7 @@
+package edu.jspiders.java_program_structure;
+
+public class Main {
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+	}
+}
